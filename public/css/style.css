@@ -6,13 +6,13 @@ body {
 }
 
 .header {
-    background: #ed1d27 url(images/bg-ft.png) no-repeat top center;
+    background: #ed1d27 url(../images/bg-ft.png) no-repeat top center;
     background-size: cover;
     height: 20%;
 }
 
 .footer {
-    background: #ed1d27 url(images/bg-ft2.png) no-repeat top center;
+    background: #ed1d27 url(../images/bg-ft2.png) no-repeat top center;
     background-size: cover;
     height: 100%;
 }
