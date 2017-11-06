@@ -20,7 +20,7 @@ var Header = React.createClass({
 
 var Section = React.createClass({
   getRandomNumber: function () {
-    return Math.floor(Math.floor((Math.random() * 99) + 0));
+    return Math.floor(Math.floor((Math.random() * 45) + 0));
   },
   getNumber: function functionName() {
     var that = this;
